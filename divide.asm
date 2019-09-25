@@ -4,6 +4,7 @@
 ; Firmware for the Intel 4004 Single Board Computer.
 ; Requires the use of a terminal emulator set for 300 bps, no parity, 7 data bits, 1 stop bit.
 ; 110 bps would be more period-correct but takes forever!
+; Syntax is for the Macro Assembler AS V1.42 http://john.ccac.rwth-aachen.de:8000/as/
 ;----------------------------------------------------------------------------------------------------
 
 ; Tell the assembler that this source is for the Intel 4004.
